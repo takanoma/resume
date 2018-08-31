@@ -5,6 +5,9 @@
 |氏名|高野　正人|
 |年齢|41歳|
 
+## 自己紹介
+フィリピンでリモート作業(PG/SE/BSE)をやっています。また、私のマネージメントの元、フィリピンスタッフによるオフショア作業の仲介をすることも可能です。
+
 ## スキル
 
 ### 言語
@@ -39,59 +42,50 @@
 
 ### 職務経歴
 
-|タイトル|説明|
-|---|-----|
-|プロジェクト|クラウド系アプリケーション|
-|期間|2016年1月〜現在まで|
-|開発言語|Java7, Java8, vueJs, Html, cssなど|
-|フレームワーク|Slim3, Spring Boot|
-|環境|Windows, Linux, GAE, GCE, Eclipsde, IntelliJなど|
-|DB|datastore|
-|担当工程|要件定義〜保守|
-|その他|Google APIやMicrosoft Graph APIを使ったクラウド系アプリケション開発<br/>Gradle導入およびJenkins導入担当<br/>2018年度から完全リモート作業|
+#### クラウド系アプリケーション
+- 期間: 2016年1月〜現在まで
+- 開発言語: Java7, Java8, vueJs, Html, cssなど
+- フレームワーク: Slim3, Spring Boot
+- 環境: Windows, Linux, GAE, GCE, Eclipsde, IntelliJなど
+- DB: datastore
+- 担当工程: 要件定義〜保守
+- その他: Google APIやMicrosoft Graph APIを使ったクラウド系アプリケション開発、Gradle導入およびJenkins導入担当、2018年度から完全リモート作業
 
-|タイトル|説明|
-|---|-----|
-|プロジェクト|某独立支援開発|
-|期間|2015年1月〜2015年12月|
-|開発言語|Java8, Thymleaf, Html, css, Jqueryなど|
-|フレームワーク|Spring Boot, Spring Batch|
-|環境|Windows, Linux, IntelliJなど|
-|DB|MySQL|
-|担当工程|基本設計〜結合試験|
-|その他|アジャイルで開発|
+#### 某独立支援開発
+- 期間: 2015年1月〜2015年12月
+- 開発言語: Java8, Thymleaf, Html, css, Jqueryなど
+- フレームワーク: Spring Boot, Spring Batch
+- 環境: Windows, Linux, IntelliJなど
+- DB: MySQL
+- 担当工程: 基本設計〜結合試験
+- その他: アジャイルで開発
 
-|タイトル|説明|
-|---|-----|
-|プロジェクト|某転職支援サイト開発|
-|期間|2014年7月〜2014年12月|
-|開発言語|Java6, Html, css, Javascriptなど|
-|フレームワーク|Spring|
-|環境|Windows, Linux, Eclipseなど|
-|DB|MySQL|
-|担当工程|詳細設計〜結合試験|
-|その他|機能改修|
+#### 某転職支援サイト開発
+- 期間: 2014年7月〜2014年12月
+- 開発言語: Java6, Html, css, Javascriptなど
+- フレームワーク: Spring
+- 環境: Windows, Linux, Eclipseなど
+- DB: MySQL
+- 担当工程: 詳細設計〜結合試験
+- その他: 機能改修
 
-|タイトル|説明|
-|---|-----|
-|プロジェクト|販売管理システム|
-|期間|2014年4月〜2014年6月|
-|開発言語|Java6, Html, css, Javascript, PL/SQLなど|
-|フレームワーク|Spring|
-|環境|Windows, Linux, Eclipseなど|
-|DB|MySQL|
-|担当工程|詳細設計〜結合試験|
-|その他|機能改修|
+#### 販売管理システム
+- 期間: 2014年4月〜2014年6月
+- 開発言語: Java6, Html, css, Javascript, PL/SQLなど
+- フレームワーク: Spring
+- 環境: Windows, Linux, Eclipseなど
+- DB: MySQL
+- 担当工程: 詳細設計〜結合試験
+- その他: 機能改修
 
-|タイトル|説明|
-|---|-----|
-|プロジェクト|自販機精算システム|
-|期間|2013年11月〜2014年3月|
-|開発言語|Java6, Html, css, Javascriptなど|
-|フレームワーク|-|
-|環境|Windows, Linux, Eclipseなど|
-|DB|MySQL|
-|担当工程|詳細設計〜結合試験|
-|その他|自販機精算のバッチシステム|
+#### 自販機精算システム
+- 期間: 2013年11月〜2014年3月
+- 開発言語: Java6, Html, css, Javascriptなど
+- フレームワーク: -
+- 環境: Windows, Linux, Eclipseなど
+- DB: MySQL
+- 担当工程: 詳細設計〜結合試験
+- その他: 自販機精算のバッチシステム
+
 
 
