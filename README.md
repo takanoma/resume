@@ -13,7 +13,7 @@
 ### 言語
 
 - プログラミング言語
-  - Java8 / Groovy / C++ / Html / CSS / Jquery / VueJs
+  - Java8 / Rails / CakePHP / Groovy / C++ / Html / CSS / Jquery / VueJs / React
 
 - 日本語
   - ネイティブ
@@ -26,7 +26,7 @@
 
 ### テストツール
 
-- Junit / Selenium / Geb
+- Junit / Selenium / Geb / Rspec
 
 ### ORマッパー
 
@@ -41,12 +41,29 @@
 - GCP / Azure
 
 ### 職務経歴
+#### 不動産管理アプリケーション
+- 期間: 2018年12月〜現在
+- 開発言語: PHP
+- フレームワーク: CakePHP
+- 環境: Intellij, vagrant
+- DB: MySql
+- 担当工程: 開発〜テスト
+- その他: 保守および開発
+
+#### 中古車販売管理アプリケーション
+- 期間: 2018年1月〜2018年11月
+- 開発言語: Ruby on Rails, React, Rspec, Html, cssなど
+- フレームワーク: Ruby on Rails
+- 環境: MacOs, Intellij, Ruby Mine, SequelPro, docker
+- DB: MySql
+- 担当工程: 開発〜テスト
+- その他: フルリモート作業、slackのやり取りは半分は英語
 
 #### クラウド系アプリケーション
-- 期間: 2016年1月〜現在まで
+- 期間: 2016年1月〜現在まで（半永久的に仕事をもらっています)
 - 開発言語: Java7, Java8, vueJs, Html, cssなど
 - フレームワーク: Slim3, Spring Boot
-- 環境: Windows, Linux, GAE, GCE, Eclipsde, IntelliJなど
+- 環境: Windows, Linux, GAE, GCE, Eclipse, IntelliJなど
 - DB: datastore
 - 担当工程: 要件定義〜保守
 - その他: Google APIやMicrosoft Graph APIを使ったクラウド系アプリケション開発、Gradle導入およびJenkins導入担当、2018年度から完全リモート作業
