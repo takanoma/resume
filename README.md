@@ -60,11 +60,12 @@
 
 #### クラウド系アプリケーション(他の案件と掛け持ちで現在も新規案件、保守案件対応中)
 - 期間: 2016年1月〜現在まで（半永久的に仕事をもらっています)
-- 開発言語: Java7, Java8, vueJs, Html, cssなど
+- 開発言語: Java7, Java8, vueJs, Html, css、Gebなど
 - フレームワーク: Slim3, Spring Boot
 - 環境: Windows, Linux, GAE, GCE, Eclipse, IntelliJなど
 - DB: datastore, MySql(cloudSQL)
 - 担当工程: 要件定義〜保守
+- 主な担当案件: カレンダー同期ツール(Google ⇄ office365)、 BBS（社内掲示版システム)など
 - その他: Google APIやMicrosoft Graph APIを使ったクラウド系アプリケション開発、Gradle導入およびJenkins導入担当、2018年度から完全リモート作業
 
 #### 某独立支援開発
