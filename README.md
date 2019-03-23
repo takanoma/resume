@@ -63,7 +63,7 @@
 - 開発言語: Java7, Java8, vueJs, Html, cssなど
 - フレームワーク: Slim3, Spring Boot
 - 環境: Windows, Linux, GAE, GCE, Eclipse, IntelliJなど
-- DB: datastore
+- DB: datastore, MySql(cloudSQL)
 - 担当工程: 要件定義〜保守
 - その他: Google APIやMicrosoft Graph APIを使ったクラウド系アプリケション開発、Gradle導入およびJenkins導入担当、2018年度から完全リモート作業
 
