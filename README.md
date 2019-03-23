@@ -21,7 +21,7 @@
 
 ### フレームワーク
 
-- Spring / Spring Boot / Spring Batch / Ruby on Rails
+- Spring / Spring Boot / Spring Batch / Ruby on Rails / CakePhp3 / Laravel
 
 ### テストツール
 
@@ -33,7 +33,7 @@
 
 ### ビルドツール
 
-- maven / gradle / 
+- maven / gradle 
 
 ### クラウド経験
 
