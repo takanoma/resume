@@ -12,7 +12,7 @@
 ### 言語
 
 - プログラミング言語
-  - Java8 / Rails / CakePHP / Groovy / C++ / Html / CSS / Jquery / VueJs / React
+  - Java8 / Ruby / PHP / Groovy / C++ / Html / CSS / Jquery / VueJs / React
 
 - 日本語
   - ネイティブ
@@ -37,7 +37,8 @@
 
 ### クラウド経験
 
-- GCP / Azure
+- GCP / Azure / AWS
+- BigQuery / CloudSQL 
 
 ### 職務経歴
 #### 不動産管理アプリケーション
