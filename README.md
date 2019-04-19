@@ -41,11 +41,20 @@
 - BigQuery / CloudSQL 
 
 ### 職務経歴
+#### 某ポータルサイトアプリケーション
+- 期間: 2019年2月〜現在
+- 開発言語: PHP, Ruby
+- フレームワーク: laravel, Ruby on Rails
+- 環境: IntelliJ, vagrant
+- DB: MySQL
+- 担当工程: 基本設計〜テスト
+- その他: フルリモート作業、保守作業
+
 #### 不動産管理アプリケーション
 - 期間: 2018年12月〜現在
 - 開発言語: PHP
 - フレームワーク: CakePHP
-- 環境: Intellij, vagrant
+- 環境: IntelliJ, vagrant
 - DB: MySQL
 - 担当工程: 開発〜テスト
 - その他: フルリモート作業、保守および開発
