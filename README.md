@@ -63,6 +63,7 @@
 - 期間: 2016年1月〜現在まで（半永久的に仕事をもらっています)
 - 開発言語: Java7, Java8, vueJs, Html, css、Gebなど
 - フレームワーク: Slim3, Spring Boot
+- ORマッパー: doma2
 - 環境: Windows, Linux, GAE, GCE, Eclipse, IntelliJなど
 - DB: datastore, MySql(cloudSQL)
 - 担当工程: 要件定義〜保守
@@ -73,6 +74,7 @@
 - 期間: 2015年1月〜2015年12月
 - 開発言語: Java8, Thymleaf, Html, css, Jqueryなど
 - フレームワーク: Spring Boot, Spring Batch
+- ORマッパー: doma2
 - 環境: Windows, Linux, IntelliJなど
 - DB: MySQL
 - 担当工程: 基本設計〜結合試験
@@ -82,6 +84,7 @@
 - 期間: 2014年7月〜2014年12月
 - 開発言語: Java6, Html, css, Javascriptなど
 - フレームワーク: Spring
+- ORマッパー: hibernate
 - 環境: Windows, Linux, Eclipseなど
 - DB: MySQL
 - 担当工程: 詳細設計〜結合試験
@@ -91,6 +94,7 @@
 - 期間: 2014年4月〜2014年6月
 - 開発言語: Java6, Html, css, Javascript, PL/SQLなど
 - フレームワーク: Spring
+- ORマッパー: ibatis
 - 環境: Windows, Linux, Eclipseなど
 - DB: MySQL
 - 担当工程: 詳細設計〜結合試験
@@ -100,10 +104,29 @@
 - 期間: 2013年11月〜2014年3月
 - 開発言語: Java6, Html, css, Javascriptなど
 - フレームワーク: -
+- ORマッパー: ibatis
 - 環境: Windows, Linux, Eclipseなど
 - DB: MySQL
 - 担当工程: 詳細設計〜結合試験
 - その他: 自販機精算のバッチシステム
 
+### CU01案件（官公庁の管理システム）
+- 期間: 2012年7月〜2013年10月
+- 開発言語: Java6, html, css, jquery, selenium
+- フレームワーク: Struts
+- ORマッパー: ibatis
+- 環境: Windows, Linux, Eclipse
+- DB: Oracle
+- 担当工程: 基本設計〜結合試験
+- その他: 開発リーダー（レビュー等）を担当
 
+### 陸自補給システム（官公庁のシステム）
+- 期間: 2012年3月〜2012年6月
+- 開発言語: Java6, html, css, jquery
+- フレームワーク: Struts
+- ORマッパー: ibatis
+- 環境: Windows, Linux, Eclipse
+- DB: Oracle
+- 担当工程: 詳細設計〜単体試験
+- その他: sqlのチューニングも実施
 
