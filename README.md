@@ -37,11 +37,11 @@
 
 ### クラウド経験
 
-- GCP / Azure / AWS
+- GCP / Azure / AWS / firebase
 - BigQuery / CloudSQL 
 
 ### 職務経歴
-#### クラウド系アプリケーション(他の案件と掛け持ちで現在も新規案件、保守案件対応中)
+#### クラウド系アプリケーション
 - 期間: 2016年1月〜2020年8月〜現在（まだ続いています)
 - 開発言語: Java7, Java8, vueJs, Html, css、Gebなど
 - フレームワーク: Slim3, Spring Boot
