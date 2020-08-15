@@ -12,7 +12,7 @@
 ### 言語
 
 - プログラミング言語
-  - Java8 / Ruby / PHP / Groovy / C++ / Html / CSS / Jquery / VueJs / React
+  - Java8 / Ruby / PHP / Groovy / C++ / Html / CSS / Jquery / VueJs / React / Redux
 
 - 日本語
   - ネイティブ
@@ -41,8 +41,18 @@
 - BigQuery / CloudSQL 
 
 ### 職務経歴
+#### クラウド系アプリケーション(他の案件と掛け持ちで現在も新規案件、保守案件対応中)
+- 期間: 2016年1月〜2020年8月〜現在（まだ続いています)
+- 開発言語: Java7, Java8, vueJs, Html, css、Gebなど
+- フレームワーク: Slim3, Spring Boot
+- ORマッパー: doma2
+- 環境: Windows, Linux, GAE, GCE, Eclipse, IntelliJなど
+- DB: datastore, MySql(cloudSQL), BigQuery
+- 担当工程: 要件定義〜保守
+- その他: Google APIやMicrosoft Graph APIを使ったクラウド系アプリケション開発、Gradle導入およびJenkins導入担当、2018年度から完全リモート作業
+
 #### 某官公庁サイトアプリケーション
-- 期間: 2019年3月〜現在
+- 期間: 2019年3月〜2020年3月
 - 開発言語: PHP, Ruby
 - フレームワーク: laravel, Ruby on Rails
 - 環境: IntelliJ, vagrant
@@ -67,17 +77,6 @@
 - DB: MySQL
 - 担当工程: 開発〜テスト
 - その他: フルリモート作業、slackのやり取りは半分は英語
-
-#### クラウド系アプリケーション(他の案件と掛け持ちで現在も新規案件、保守案件対応中)
-- 期間: 2016年1月〜2020年4月〜現在（まだ続いています)
-- 開発言語: Java7, Java8, vueJs, Html, css、Gebなど
-- フレームワーク: Slim3, Spring Boot
-- ORマッパー: doma2
-- 環境: Windows, Linux, GAE, GCE, Eclipse, IntelliJなど
-- DB: datastore, MySql(cloudSQL), BigQuery
-- 担当工程: 要件定義〜保守
-- 主な担当案件: カレンダー同期ツール(Google ⇄ office365)、 BBS（社内掲示版システム)など
-- その他: Google APIやMicrosoft Graph APIを使ったクラウド系アプリケション開発、Gradle導入およびJenkins導入担当、2018年度から完全リモート作業
 
 #### 某独立支援開発
 - 期間: 2015年1月〜2015年12月
