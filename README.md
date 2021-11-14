@@ -6,13 +6,13 @@
 |年齢|44歳|
 
 ## 自己紹介
-フィリピンでリモート作業(PG/SE/BSE)をやっています。また、私のマネージメントの元(必要であれば)、フィリピンスタッフによるオフショア作業の仲介をすることも可能です。
-スキルとしてはJavaを中心に10年以上開発を経験しております。一番得意な言語はJavaですが、RailsやPHPおよびC++の経験もあります。
+基本自宅でリモート作業をしています。フィリピンやベトナムとのBSE作業も経験しております。
+スキルとしてはJavaを中心に10年以上開発を経験しており、一番得意な言語はJavaですが、RailsやPHPおよびC++の経験もあります。
 
 ### 言語
 
 - プログラミング言語
-  - Java8 / Ruby / PHP / Groovy / C++ / Html / CSS / Jquery / VueJs / React / Redux
+  - Java8 / Rails / PHP / Groovy / C++ / Html / CSS / Jquery / VueJs / React / Redux
 
 - 日本語
   - ネイティブ
@@ -46,10 +46,16 @@
 - 開発言語: Java7, Java8, vueJs, Html, css、Gebなど
 - フレームワーク: Slim3, Spring Boot
 - ORマッパー: doma2
-- 環境: Windows, Linux, GAE, GCE, Eclipse, IntelliJなど
+- 環境: MacOs, Linux, GAE, GCE, Eclipse, IntelliJなど
 - DB: datastore, MySql(cloudSQL), BigQuery
 - 担当工程: 要件定義〜保守
 - その他: Google APIやMicrosoft Graph APIを使ったクラウド系アプリケション開発、Gradle導入およびJenkins導入担当、2018年度から完全リモート作業
+
+#### 某ガス会社向けサイトアプリケーション
+- 期間: 2020年10月〜2021年2月
+- 開発言語: React, Redux, Html, cssなど
+- 環境: MacOs, IntelliJなど
+- 担当工程: PG〜UT
 
 #### 某官公庁サイトアプリケーション
 - 期間: 2019年3月〜2020年3月
