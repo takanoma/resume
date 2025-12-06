@@ -42,12 +42,12 @@
 
 ### 職務経歴
 #### クラウド系アプリケーション
-- 期間: 2016年1月〜2021年11月〜現在（まだ続いています)
-- 開発言語: Java7, Java8, vueJs, Html, css、Gebなど
+- 期間: 2016年1月〜2025年11月〜現在（まだ続いています)
+- 開発言語: Java7, Java8, Java17, vueJs, Html, css、Gebなど
 - フレームワーク: Slim3, Spring Boot
 - ORマッパー: doma2
-- 環境: MacOs, Linux, GAE, GCE, Eclipse, IntelliJなど
-- DB: datastore, MySql(cloudSQL), BigQuery
+- 環境: MacOs, Linux, GAE, GCE, Azure, VS code, Eclipse, IntelliJなど
+- DB: datastore, MySql(cloudSQL), BigQuery, Cosmos DB
 - 担当工程: 要件定義〜保守
 - その他: Google APIやMicrosoft Graph APIを使ったクラウド系アプリケション開発、Gradle導入およびJenkins導入担当、2018年度から完全リモート作業
 
